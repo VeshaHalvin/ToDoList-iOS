@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>877464615277-8ut4r05sb3o10oeeu0g933akgq4m3b62.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.877464615277-8ut4r05sb3o10oeeu0g933akgq4m3b62</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>cn.edu.njxzc.TodoList</string>
+	<key>GIDClientID</key>
+	<string>877464615277-8ut4r05sb3o10oeeu0g933akgq4m3b62.apps.googleusercontent.com</string>
+	<key>CFBundleURLTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>com.googleusercontent.apps.835105347615-kviao0fs69d7n42kjr69g0khp60d4thi</string>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>
